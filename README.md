@@ -3,6 +3,9 @@
 Hello my name is Ahmet and i am 16 years old.
 I've been coding with java for about 3 years, And I've been playing minecraft for about 9 years.
 
+    
+    Some technologies
+
 1 ) NMS ⚡ 
 
 2 ) NMC ⚡
@@ -20,6 +23,8 @@ I've been coding with java for about 3 years, And I've been playing minecraft fo
 7 ) OpenGL 🤔
 
 8 ) Minecraft Java Edition Protocol ⚡
+
+9 ) Maven
 
     Database / Caching
 1 ) MongoDB
