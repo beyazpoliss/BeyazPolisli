@@ -3,8 +3,9 @@
 Hello my name is Ahmet and i am 16 years old.
 I've been coding with java for about 3 years, And I've been playing minecraft for about 9 years.
 
-⚡ NMS, 
-⚡ CraftBukkit, 
+⚡ NMS
+
+⚡ CraftBukkit
 Netty, 
 ⚡ Spring, 
 JavaFX,
