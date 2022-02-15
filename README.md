@@ -3,37 +3,25 @@
 Hello my name is Ahmet and i am 16 years old.
 I've been coding with java for about 3 years, And I've been playing minecraft for about 9 years.
 
-⚡ NMS
+1 ) NMS ⚡ 
+2 ) NMC ⚡
+2 ) CraftBukkit ⚡ 
+3 ) Netty 
+4 ) SpringBoot
+5 ) JavaFX
+6 ) Swing
+7 ) OpenGL 🤔
+8 ) Minecraft Java Edition Protocol ⚡
 
-⚡ CraftBukkit
-Netty, 
-⚡ Spring, 
-JavaFX,
-Java Swing,
-🤔 OpenGL, 
-⚡ Code Design and API Design, 
-MongDB, 
-MySQL, 
-⚡ Game Design, 
-CSS, 
-HTML, 
-Minecraft Clients, 
-⚡Minecraft Java Edition Protocol,
+    Database / Caching
+1 ) MongoDB
+2 ) MySQL
+3 ) Redis
 
-I know about.
+    Web
+1 ) HTML5
+2 ) Css
+
+    My
 
 🔭 I am interested in subjects such as Space, Cooking, Economy, CyberSecurity, History, Biology and I do research as a hobby.
-<!--
-**BeyazPolisli/BeyazPolisli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact:a...
--->
